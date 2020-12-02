@@ -17,7 +17,7 @@ const useStyles = makeStyles({
     bottom: 0,
   },
   menuIcon: {
-    minWidth: "75px",
+    minWidth: "60px",
   },
 });
 

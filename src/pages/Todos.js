@@ -9,12 +9,14 @@ export default function Todos() {
   return (
     <>
       <Form onCreateTodo={addTodo} />
-      {todos.map(({ title, isDone, id }, index) => (
+      {todos.map(({ title, isDone, completed, id }, index) => (
         <Todo
-          onClick={() => toggleTodo(index)}
+          onToggleTodo={() => toggleTodo(index)}
           title={title}
           isDone={isDone}
           key={id}
+          onDelete={() => onDelete(title)}
+          completed={completed}
         />
       ))}
     </>
@@ -32,5 +34,9 @@ export default function Todos() {
 
   function addTodo(title) {
     setTodos([...todos, { title, isDone: false, id: uuidv4() }]);
+  }
+
+  function onDelete(title) {
+    setTodos(todos.filter((todo) => todo.title !== title));
   }
 }
