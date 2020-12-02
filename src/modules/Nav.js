@@ -17,7 +17,7 @@ const useStyles = makeStyles({
     bottom: 0,
   },
   menuIcon: {
-    minWidth: "60px",
+    minWidth: "50px",
   },
 });
 
@@ -49,6 +49,8 @@ export default function SimpleBottomNavigation() {
         icon={<DoneAllIcon />}
       />
       <BottomNavigationAction
+        component={Link}
+        to="/routine"
         className={classes.menuIcon}
         label="Routine"
         icon={<ReplayIcon />}
@@ -61,6 +63,8 @@ export default function SimpleBottomNavigation() {
         icon={<EmojiObjectsIcon />}
       />
       <BottomNavigationAction
+        component={Link}
+        to="/einstellungen"
         className={classes.menuIcon}
         label="Einstellungen"
         icon={<SettingsIcon />}

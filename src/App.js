@@ -22,9 +22,11 @@ function App() {
           <Route path="/todos">
             <Todos  />
           </Route>
-          <Route path="/Einstellungen">
-            <Einstellungen />
+          <Route path="/routine">
             <Routine />
+          </Route>
+          <Route path="/einstellungen">
+            <Einstellungen />
           </Route>
         </Switch>
         <Nav />
