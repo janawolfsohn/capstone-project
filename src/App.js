@@ -11,10 +11,13 @@ function App() {
     <Router>
       <div className="App">
         <Header />
+        
         <Switch>
           <Route exact path="/">
-            <h1>startseite</h1>
+          <h1> Hallo Jana</h1>
+            
           </Route>
+          
           <Route path="/wissen">
             <Wissen />
           </Route>
@@ -34,5 +37,6 @@ function App() {
     </Router>
   );
 }
+
 
 export default App;
