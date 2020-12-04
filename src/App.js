@@ -1,29 +1,25 @@
-import Header from "./modules/Header";
 import Nav from "./modules/Nav";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
+import Home from "./pages/Home";
 import Todos from "./pages/Todos";
 import Wissen from "./pages/Wissen";
 import Routine from "./pages/Routine";
 import Einstellungen from "./pages/Einstellungen";
+import React from "react";
 
 function App() {
   return (
     <Router>
       <div className="App">
-        <Header />
-        
         <Switch>
           <Route exact path="/">
-          <h1> Hallo Jana</h1>
-            
+            <Home />
           </Route>
-          
           <Route path="/wissen">
             <Wissen />
           </Route>
-          
           <Route path="/todos">
-            <Todos  />
+            <Todos />
           </Route>
           <Route path="/routine">
             <Routine />
@@ -37,6 +33,5 @@ function App() {
     </Router>
   );
 }
-
 
 export default App;

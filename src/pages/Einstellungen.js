@@ -1,4 +1,5 @@
+import Header from "../modules/Header";
+
 export default function Einstellungen() {
-    return <header><h1>Einstellungen</h1></header>;
-  }
-  
+  return <Header title="Einstellungen" />;
+}

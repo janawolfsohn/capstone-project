@@ -34,7 +34,10 @@ export default function Todos(props) {
   }
 
   function addTodo(title) {
-    setTodos([...todos, { title, isDone: false, id: uuidv4() }]);
+    setTodos([
+      ...todos,
+      { title, isDone: false, id: uuidv4(), date: new Date().toLocaleString() },
+    ]);
   }
 
   function onDelete(title) {
