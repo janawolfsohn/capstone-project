@@ -1,4 +1,13 @@
+import Header from "../modules/Header";
+
 export default function Routine() {
-    return <h1>Routine</h1>;
-  }
-  
+  return (
+<>
+  <Header title="Routine" />
+<body>
+  <p>
+    Hier werden Routinen erstellt
+  </p>
+</body>
+  </>
+  )}

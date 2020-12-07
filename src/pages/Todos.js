@@ -2,13 +2,14 @@ import { useState } from "react";
 import { v4 as uuidv4 } from "uuid";
 import Form from "../modules/Form";
 import Todo from "../modules/ToDo";
+import Header from "../modules/Header"
 
 export default function Todos(props) {
   const [todos, setTodos] = useState([]);
 
   return (
     <>
-      <h1>Todos</h1>
+    <Header title="ToDo" />
       <Form onCreateTodo={addTodo} />
       {todos.map(({ title, isDone, completed, id }, index) => (
         <Todo

@@ -9,7 +9,8 @@ export default function Header({ title }) {
 }
 
 const HeaderBox = styled.header`
-  background-color: hotpink;
+  background-color: lightpink;
+  text-align: center;
   padding: 0.5rem;
   margin-bottom: 1rem;
   h1 {

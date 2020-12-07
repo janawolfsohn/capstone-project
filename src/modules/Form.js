@@ -37,9 +37,9 @@ const FormStyled = styled.form`
 
 const Button = styled.button`
   padding: 10px 20px;
-  background: plum;
-  color: darkorchid;
-  font-size: 1.2em;
+  background: lightpink;
+  color: ivory;
+  font-size: 1.5em;
   border: none;
   border-radius: 6px;
 `
