@@ -12,12 +12,16 @@ import { Link } from "react-router-dom";
 const useStyles = makeStyles({
   root: {
     width: "92%",
-    padding: "5px",
+    //padding: "5px",
     position: "fixed",
     bottom: 0,
+    justifyContent: "end",
+    
   },
   menuIcon: {
     minWidth: "50px",
+    backgroundColor: "lightpink",
+    
   },
 });
 
@@ -72,3 +76,4 @@ export default function SimpleBottomNavigation() {
     </BottomNavigation>
   );
 }
+

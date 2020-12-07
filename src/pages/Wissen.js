@@ -1,5 +1,6 @@
 import Header from "../modules/Header";
 
+
 export default function Wissen() {
   return (
     <>
@@ -8,3 +9,4 @@ export default function Wissen() {
     </>
   );
 }
+
