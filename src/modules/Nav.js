@@ -17,10 +17,12 @@ const useStyles = makeStyles({
     bottom: 0,
     justifyContent: "end",
     
+    
   },
   menuIcon: {
     minWidth: "50px",
     backgroundColor: "lightpink",
+    color: "ivory",
     
   },
 });

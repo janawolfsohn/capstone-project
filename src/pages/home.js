@@ -26,6 +26,16 @@ export default function Home() {
             {day + 2}.{month}
           </h3>
         </div>
+        <div>
+          <h3>
+            {day + 3}.{month}
+          </h3>
+        </div>
+        <div>
+          <h3>
+            {day + 4}.{month}
+          </h3>
+        </div>
       </Calendar>
       <Today>
         <h3>Was steht heute an?</h3>
@@ -45,4 +55,3 @@ const Today = styled.div`
   margin: 1rem 2rem;
   padding: 1rem;
 `;
-

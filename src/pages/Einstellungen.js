@@ -6,13 +6,12 @@ export default function Einstellungen() {
   return (
     <>
       <Header title="Einstellungen" />
-      <body>
+      
         <div>
           <Profilimg src={Profilbild} alt="Profilbild-Icon" />
         </div>
         <Text> Farbschema </Text>
         <Text> Your Name: Jana</Text>
-      </body>
     </>
   );
 }
