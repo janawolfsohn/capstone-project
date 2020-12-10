@@ -6,13 +6,19 @@ import Wissen from "./pages/Wissen";
 import Routine from "./pages/Routine";
 import Einstellungen from "./pages/Einstellungen";
 import React from "react";
+import Login from "./modules/login";
+
+
 
 function App() {
   return (
     <Router>
       <div className="App">
         <Switch>
-          <Route exact path="/">
+        <Route path="/">
+            <Login />
+          </Route>
+          <Route exact path="/home">
             <Home />
           </Route>
           <Route path="/wissen">
