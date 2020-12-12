@@ -1,6 +1,4 @@
 import { useState } from "react";
-//import { useHistory } from "react-router-dom"
-//import saveLocally from '../../lib/saveLocally'
 import styled from "styled-components/macro";
 
 export default function Login() {
@@ -8,8 +6,8 @@ export default function Login() {
     email: "",
     password: "",
   });
-  //const history = useHistory();
-    return (
+
+  return (
     <>
       <header>
         <h1>Halllllooo</h1>
@@ -33,8 +31,8 @@ export default function Login() {
           value={loginData.password}
         />
         <SignInWrapper>
-          <p>Sign in</p>
-          <button onClick={loginUser}></button>
+         
+          <button onClick={() => console.log("click")}>Sign in</button>
         </SignInWrapper>
       </FormStyled>
 
@@ -50,29 +48,8 @@ export default function Login() {
       ...loginData,
       [event.target.name]: event.target.value,
     });
-  }
+  } 
 
-  function loginUser(event) {
-    event.preventDefault();
-    
-
-    //const raw = JSON.stringify(loginData);
-
-    /* const requestOptions = {
-            method: 'POST',
-            headers: myHeaders,
-            body: raw,
-            redirect: 'follow',
-        };*/
-
-    /*fetch('http://onboarding.local/login', requestOptions)
-            .then((response) => response.text())
-            .then(result => saveLocally("authenticationToken", result))
-            .catch((error) => console.log('error', error));
-
-        // @TODO: if password isnt valid -> send User info
-        history.push("/home")*/
-  }
 }
 
 const FormStyled = styled.form`

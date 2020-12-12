@@ -12,7 +12,6 @@ import { Link } from "react-router-dom";
 const useStyles = makeStyles({
   root: {
     width: "92%",
-    //padding: "5px",
     position: "fixed",
     bottom: 0,
     justifyContent: "end",
@@ -42,7 +41,7 @@ export default function SimpleBottomNavigation() {
     >
       <BottomNavigationAction
         component={Link}
-        to="/"
+        to="/home"
         className={classes.menuIcon}
         label="Start"
         icon={<HomeIcon />}
