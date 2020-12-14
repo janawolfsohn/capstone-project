@@ -7,8 +7,12 @@ import Routine from "./pages/Routine";
 import Einstellungen from "./pages/Einstellungen";
 import React from "react";
 import Login from "./modules/login";
+import useJournals from './hooks/useJournals'
+import JournalPage from './journal/JournalPage'
 
-function App() {
+export default function App() {
+  const { entries, yesterdaysEntry, addEntry } = useJournals()
+  
   return (
     <>
       <Router>
@@ -26,6 +30,10 @@ function App() {
             <Route path="/todos">
               <Todos />
             </Route>
+            <Route path="/journal">
+          <JournalPage entries={entries} addEntry={addEntry} 
+          yesterdaysEntry={yesterdaysEntry}/>
+        </Route>
             <Route path="/routine">
               <Routine />
             </Route>
@@ -36,8 +44,8 @@ function App() {
           <Nav />
         </div>
       </Router>
+     
     </>
   );
 }
 
-export default App;

@@ -55,9 +55,9 @@ export default function SimpleBottomNavigation() {
       />
       <BottomNavigationAction
         component={Link}
-        to="/routine"
+        to="/journal"
         className={classes.menuIcon}
-        label="Routine"
+        label="Jornal"
         icon={<ReplayIcon />}
       />
       <BottomNavigationAction
