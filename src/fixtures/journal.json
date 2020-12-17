@@ -1,0 +1,42 @@
+[
+  {
+    "_id": "5f281d964d89a27710710915",
+    "date": "2020-08-13T13:41:16.930Z",
+    "rating": 3,
+    "comprehension": 10,
+    "motto": "That's life",
+    "notes": "Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly."
+  },
+  {
+    "_id": "5f281e5b5b7d3f774d578e08",
+    "date": "2020-08-02T13:41:16.930Z",
+    "rating": 2,
+    "comprehension": 5,
+    "motto": "That's life in the city",
+    "notes": "Without any sugar. What a nightmare. Well, bring her along. This concerns her too. Oh, oh a rematch, why, were you cheating? Good morning, Mom."
+  },
+  {
+    "_id": "5f281ea94936d97761e4c424",
+    "date": "2020-08-01T13:41:16.930Z",
+    "rating": 4,
+    "comprehension": 7,
+    "motto": "Experience is the name everyone gives to their mistakes.",
+    "notes": "Lab? I can't give you a tab unless you order something. What's that thing he's on? What did you sleep in your clothes again last night. No, why, what's a matter? Looks like a airplane, without wings."
+  },
+  {
+    "_id": "5f281ecb9fbf77777305218b",
+    "date": "2020-08-01T13:41:16.930Z",
+    "rating": 3,
+    "comprehension": 3,
+    "motto": "First, solve the problem. Then, write the code.",
+    "notes": "Hey, not too early I sleep in on Saturday. Oh, McFly, your shoe's untied. Don't be so gullible, McFly. You got the place fixed up nice, McFly. I have you're car towed all the way to your house and all you've got for me is light beer. What are you looking at, butthead. Say hi to your mom for me. No, fine, no , good, fine, good. Time machine, I haven't invented any time machine. Jesus, George, it's a wonder I was ever born. Ahh."
+  },
+  {
+    "_id": "5f281edc9fbf77777305218c",
+    "date": "2020-08-01T13:41:16.930Z",
+    "rating": 5,
+    "comprehension": 10,
+    "motto": "Knowledge is power.",
+    "notes": "That Biff, what a character. Always trying to get away with something. Been on top of Biff ever since high school. Although, if it wasn't for him- Hi. Uh, well, actually, I figured since it wasn't due till Monday- C'mon man, let's do something that really cooks. This is it. This is the answer. It says here that a bolt of lightning is gonna strike the clock tower precisely at 10:04 p.m. next Saturday night. If we could somehow harness this bolt of lightning, channel it into the flux capacitor, it just might work. Next Saturday night, we're sending you back to the future."
+  }
+]

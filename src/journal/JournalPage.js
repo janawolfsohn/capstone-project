@@ -1,23 +1,27 @@
-import PropTypes from 'prop-types'
-import React from 'react'
-import styled from 'styled-components/macro'
-import CardGrid from '../common/CardGrid'
-import Header from '../common/Header'
-import { StarIcon } from '../common/icons'
-import JournalEntry from './JournalEntry'
-import JournalForm from './JournalForm'
-import useJournalForm from './useJournalForm'
-import { isTheSameDay } from '../lib/date'
+import PropTypes from "prop-types";
+import React from "react";
+import styled from "styled-components/macro";
+import CardGrid from "../common/CardGrid";
+import Header from "../modules/Header";
+import { StarIcon } from "../common/icons";
+import JournalEntry from "./JournalEntry";
+import JournalForm from "./JournalForm";
+import useJournalForm from "./useJournalForm";
+import { isTheSameDay } from "../lib/date";
 
 JournalPage.propTypes = {
   entries: PropTypes.arrayOf(PropTypes.object).isRequired,
   addEntry: PropTypes.func.isRequired,
   today: PropTypes.instanceOf(Date),
-}
+};
 
 export default function JournalPage({ entries, addEntry, today = new Date() }) {
-  const { formIsVisible, showForm, onSave, onCancel } = useJournalForm(addEntry)
-  const hasEntryForToday = entries.some(({ date }) => isTheSameDay(date, today))
+  const { formIsVisible, showForm, onSave, onCancel } = useJournalForm(
+    addEntry
+  );
+  const hasEntryForToday = entries.some(({ date }) =>
+    isTheSameDay(date, today)
+  );
 
   return (
     <>
@@ -37,12 +41,12 @@ export default function JournalPage({ entries, addEntry, today = new Date() }) {
         )}
       </StyledCardGrid>
     </>
-  )
+  );
 }
 
 const StyledCardGrid = styled(CardGrid)`
   justify-items: center;
-`
+`;
 
 const Button = styled.button`
   background-color: var(--orange-main);
@@ -66,4 +70,4 @@ const Button = styled.button`
     height: 12px;
     width: 12px;
   }
-`
+`;

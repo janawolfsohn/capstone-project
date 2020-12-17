@@ -91,9 +91,9 @@ const Form = styled.form`
 
 const NotesInput = styled.textarea`
   display: block;
-  width: 100%;
+  width: 90%;
   height: 120px;
-  padding: 20px;
+  padding: 10px;
   border-radius: 4px;
   border: 1px solid var(--blue-50);
   margin-top: 10px;
@@ -104,8 +104,8 @@ const NotesInput = styled.textarea`
 
 const MottoInput = styled.input`
   display: block;
-  width: 100%;
-  padding: 20px;
+  width: 90%;
+  padding: 10px;
   border-radius: 4px;
   border: 1px solid var(--blue-50);
   margin-top: 10px;
@@ -130,7 +130,7 @@ const StyledLabel = styled.label`
 const ButtonGroup = styled.div`
   display: flex;
   justify-content: space-evenly;
-  width: 100%;
+  width: 97%;
 `
 
 const Button = styled.button`

@@ -39,7 +39,7 @@ const IconButton = styled.button`
   fill: ${(props) => (props.marked ? 'var(--blue-main)' : 'none')};
   stroke: ${(props) =>
     props.marked ? 'var(--blue-main)' : 'var(--blue-main)'};
-  background-color: white;
+  background-color: transparent;
   padding: 0;
   cursor: pointer;
 `

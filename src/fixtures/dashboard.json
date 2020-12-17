@@ -1,0 +1,45 @@
+{
+  "userName": "Enie Schwatlo",
+  "buddies": [
+    {
+      "_id": "5f2bcc8234d1847701fe341e",
+      "name": "Enie Schwatlo",
+      "course": "5f2bca7434d1847701fe340f"
+    },
+    {
+      "_id": "5f2bcc8234d1847701fe3413",
+      "name": "Darleen Daub",
+      "course": "5f2bca7434d1847701fe340f"
+    }
+  ],
+  "team": [
+    {
+      "_id": "5f2bcc8234d1847701fe341a",
+      "name": "Jasmin Dietz",
+      "course": "5f2bca7434d1847701fe340f"
+    },
+    {
+      "_id": "5f2bcc8234d1847701fe341e",
+      "name": "Enie Schwatlo",
+      "course": "5f2bca7434d1847701fe340f"
+    },
+    {
+      "_id": "5f2bcc8234d1847701fe3419",
+      "name": "Jarno Gummelt",
+      "course": "5f2bca7434d1847701fe340f"
+    },
+    {
+      "_id": "5f2bcc8234d1847701fe3415",
+      "name": "Leandra Kubera",
+      "course": "5f2bca7434d1847701fe340f"
+    }
+  ],
+  "yesterdaysEntry": {
+    "_id": "5f281d964d89a27710710915",
+    "date": "2020-08-13T13:41:16.930Z",
+    "rating": 3,
+    "comprehension": 10,
+    "motto": "That's life",
+    "notes": "Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly."
+  }
+}

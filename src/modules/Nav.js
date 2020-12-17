@@ -4,7 +4,7 @@ import BottomNavigation from "@material-ui/core/BottomNavigation";
 import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import HomeIcon from "@material-ui/icons/Home";
 import DoneAllIcon from "@material-ui/icons/DoneAll";
-import ReplayIcon from "@material-ui/icons/Replay";
+import StarHalfIcon from "@material-ui/icons/StarHalf";
 import EmojiObjectsIcon from "@material-ui/icons/EmojiObjects";
 import SettingsIcon from "@material-ui/icons/Settings";
 import { Link } from "react-router-dom";
@@ -15,14 +15,11 @@ const useStyles = makeStyles({
     position: "fixed",
     bottom: 0,
     justifyContent: "end",
-    
-    
   },
   menuIcon: {
     minWidth: "50px",
     backgroundColor: "lightpink",
     color: "ivory",
-    
   },
 });
 
@@ -58,7 +55,7 @@ export default function SimpleBottomNavigation() {
         to="/journal"
         className={classes.menuIcon}
         label="Jornal"
-        icon={<ReplayIcon />}
+        icon={<StarHalfIcon />}
       />
       <BottomNavigationAction
         component={Link}
@@ -77,4 +74,3 @@ export default function SimpleBottomNavigation() {
     </BottomNavigation>
   );
 }
-

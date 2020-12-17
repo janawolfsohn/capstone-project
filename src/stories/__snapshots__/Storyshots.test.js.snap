@@ -1,0 +1,1951 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Design Colors 1`] = `
+Array [
+  <section
+    className="sc-fzpans eqnfFs"
+  >
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO dVdumk"
+        name="orange-main"
+      />
+      <p>
+        orange-main
+      </p>
+      <p>
+        #FF5A36
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO ePbpER"
+        name="orange-75"
+      />
+      <p>
+        orange-75
+      </p>
+      <p>
+        #FF9C86
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO jxEerG"
+        name="orange-50"
+      />
+      <p>
+        orange-50
+      </p>
+      <p>
+        #FFBDAF
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO kRrHzs"
+        name="orange-25"
+      />
+      <p>
+        orange-25
+      </p>
+      <p>
+        #FFDED7
+      </p>
+    </section>
+  </section>,
+  <section
+    className="sc-fzpans eqnfFs"
+  >
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO kAqBSu"
+        name="blue-main"
+      />
+      <p>
+        blue-main
+      </p>
+      <p>
+        #193251
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO CQrLP"
+        name="blue-75"
+      />
+      <p>
+        blue-75
+      </p>
+      <p>
+        #7589A2
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO guXgyA"
+        name="blue-50"
+      />
+      <p>
+        blue-50
+      </p>
+      <p>
+        #E0E4E
+      </p>
+    </section>
+    <section
+      className="sc-fzoLsD dSONtL"
+    >
+      <div
+        className="sc-fznyAO cLIdmy"
+        name="blue-25"
+      />
+      <p>
+        blue-25
+      </p>
+      <p>
+        #F8F8F8
+      </p>
+    </section>
+  </section>,
+]
+`;
+
+exports[`Storyshots Design Icons 1`] = `
+<section
+  className="sc-fzpans eqnfFs"
+>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      BuddyIcon.svg
+    </svg>
+    <p>
+      BuddyIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      TeamIcon.svg
+    </svg>
+    <p>
+      TeamIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      JournalIcon.svg
+    </svg>
+    <p>
+      JournalIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      DashboardIcon.svg
+    </svg>
+    <p>
+      DashboardIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      Plus.svg
+    </svg>
+    <p>
+      PlusIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      Star.svg
+    </svg>
+    <p>
+      StarIcon
+    </p>
+  </section>
+  <section
+    className="sc-fzoLsD sc-fzplWN jZxoRQ"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+    <p>
+      RectangleIcon
+    </p>
+  </section>
+</section>
+`;
+
+exports[`Storyshots Design Shapes 1`] = `
+<section
+  className="sc-fzpans eqnfFs"
+>
+  <section
+    className="sc-fzoLsD dSONtL"
+  >
+    <svg>
+      background_shape.svg
+    </svg>
+    <p>
+      background_shape.svg
+    </p>
+  </section>
+</section>
+`;
+
+exports[`Storyshots buddies/BuddyPage Buddy Page 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Buddies
+    </h1>
+    <p
+      className="Header__Subheadline-sc-1euivu9-2 jzIGnU"
+    >
+      Saturday, 8/22/2020
+    </p>
+  </header>
+  <main
+    className="CardGrid-sc-6br2mr-0 kzuOaO"
+  >
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Darleen Daub
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Stefan Pohle
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Arwen Kneifel
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Can Dobbrunz
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Melis Rink
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Emirhan Schönherr
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Ashley Häber
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Leandra Kubera
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Lilia Mulrain
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Marit Bogenrieder
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Thore Rach
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jasmin Dietz
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jarno Gummelt
+        </p>
+      </li>
+    </ul>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Eleonora Lipus
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Kenan Schuldt
+        </p>
+      </li>
+    </ul>
+  </main>
+</div>
+`;
+
+exports[`Storyshots common/Header Header 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Storybook title
+    </h1>
+    <p
+      className="Header__Subheadline-sc-1euivu9-2 jzIGnU"
+    >
+      Storybook subtitle
+    </p>
+  </header>
+</div>
+`;
+
+exports[`Storyshots common/Navigation Navigation 1`] = `
+<nav
+  className="Navigation__Navbar-sc-1sapt61-0 KvyqJ"
+>
+  <a
+    aria-current="page"
+    className="active"
+    href="/"
+    onClick={[Function]}
+    style={
+      Object {
+        "fill": "var(--blue-main)",
+      }
+    }
+  >
+    <svg>
+      DashboardIcon.svg
+    </svg>
+  </a>
+  <a
+    aria-current={null}
+    href="/buddy"
+    onClick={[Function]}
+  >
+    <svg>
+      BuddyIcon.svg
+    </svg>
+  </a>
+  <a
+    aria-current={null}
+    href="/team"
+    onClick={[Function]}
+  >
+    <svg>
+      TeamIcon.svg
+    </svg>
+  </a>
+  <a
+    aria-current={null}
+    href="/journal"
+    onClick={[Function]}
+  >
+    <svg>
+      JournalIcon.svg
+    </svg>
+  </a>
+</nav>
+`;
+
+exports[`Storyshots common/StudentList Student List 1`] = `
+<ul
+  className="sc-AxjAm jkCkoX"
+>
+  <li
+    className="sc-AxirZ eYcQlt"
+  >
+    <p>
+      Eleonora Lipus
+    </p>
+    <svg>
+      Plus.svg
+    </svg>
+  </li>
+  <li
+    className="sc-AxirZ eYcQlt"
+  >
+    <p>
+      Stefan Pohle
+    </p>
+    <svg>
+      Plus.svg
+    </svg>
+  </li>
+  <li
+    className="sc-AxirZ eYcQlt"
+  >
+    <p>
+      Melis Rink
+    </p>
+    <svg>
+      Plus.svg
+    </svg>
+  </li>
+  <li
+    className="sc-AxirZ eYcQlt"
+  >
+    <p>
+      Ashley Häber
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots dashboard/Dashboard With Yesterdays Journal 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Dashboard
+    </h1>
+    
+  </header>
+  <main
+    className="CardGrid-sc-6br2mr-0 sc-AxhUy sKgkW"
+  >
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Your Code Buddy for Today:
+    </h2>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Darleen Daub
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Your Current Team:
+    </h2>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jasmin Dietz
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jarno Gummelt
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Leandra Kubera
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Yesterdays Journal:
+    </h2>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb eRpim"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb hVCLuo"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        That's life
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly.
+      </p>
+    </section>
+  </main>
+</div>
+`;
+
+exports[`Storyshots dashboard/Dashboard Without Yesterdays Journal 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Dashboard
+    </h1>
+    
+  </header>
+  <main
+    className="CardGrid-sc-6br2mr-0 sc-AxhUy sKgkW"
+  >
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Your Code Buddy for Today:
+    </h2>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Darleen Daub
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Your Current Team:
+    </h2>
+    <ul
+      className="sc-AxjAm jkCkoX"
+    >
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jasmin Dietz
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Jarno Gummelt
+        </p>
+      </li>
+      <li
+        className="sc-AxirZ eYcQlt"
+      >
+        <p>
+          Leandra Kubera
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      Yesterdays Journal:
+    </h2>
+    <h2
+      className="sc-AxgMl gQyEcN"
+    >
+      <small>
+        No entry from yesterday
+      </small>
+    </h2>
+  </main>
+</div>
+`;
+
+exports[`Storyshots journal/DateView Date View 1`] = `
+<time
+  className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+  dateTime="2020-08-01T13:41:16.930Z"
+>
+  8/1/2020
+</time>
+`;
+
+exports[`Storyshots journal/IconRange With Rectangles 1`] = `
+<div
+  className="sc-AxhCb dPuEFS"
+>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+  <svg>
+    Rectangle.svg
+  </svg>
+</div>
+`;
+
+exports[`Storyshots journal/IconRange With Stars 1`] = `
+<div
+  className="sc-AxhCb iMtHFH"
+>
+  <svg>
+    Star.svg
+  </svg>
+  <svg>
+    Star.svg
+  </svg>
+  <svg>
+    Star.svg
+  </svg>
+  <svg>
+    Star.svg
+  </svg>
+  <svg>
+    Star.svg
+  </svg>
+</div>
+`;
+
+exports[`Storyshots journal/IconRangeInput With Rectangles 1`] = `
+<div
+  className="sc-AxheI hlNUlm"
+>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+  </button>
+</div>
+`;
+
+exports[`Storyshots journal/IconRangeInput With Stars 1`] = `
+<div
+  className="sc-AxheI hlNUlm"
+>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Star.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr bImA-de"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Star.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Star.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Star.svg
+    </svg>
+  </button>
+  <button
+    className="sc-Axmtr hiLbiM"
+    onClick={[Function]}
+    type="button"
+  >
+    <svg>
+      Star.svg
+    </svg>
+  </button>
+</div>
+`;
+
+exports[`Storyshots journal/JournalEntry Journal Entry 1`] = `
+<section
+  className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+>
+  <time
+    className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+    dateTime="2020-08-13T13:41:16.930Z"
+  >
+    8/13/2020
+  </time>
+  <p
+    className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+  >
+    Rating:
+  </p>
+  <div
+    className="sc-AxhCb eRpim"
+  >
+    <svg>
+      Star.svg
+    </svg>
+    <svg>
+      Star.svg
+    </svg>
+    <svg>
+      Star.svg
+    </svg>
+    <svg>
+      Star.svg
+    </svg>
+    <svg>
+      Star.svg
+    </svg>
+  </div>
+  <p
+    className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+  >
+    Comprehension:
+  </p>
+  <div
+    className="sc-AxhCb hVCLuo"
+  >
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+    <svg>
+      Rectangle.svg
+    </svg>
+  </div>
+  <p
+    className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+  >
+    Motto:
+  </p>
+  <q
+    className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+  >
+    That's life
+  </q>
+  <p
+    className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+  >
+    Notes:
+  </p>
+  <p
+    className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+  >
+    Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly.
+  </p>
+</section>
+`;
+
+exports[`Storyshots journal/JournalForm Journal Form 1`] = `
+<form
+  className="JournalForm__Form-hrntqh-1 eKducP"
+  onSubmit={[Function]}
+>
+  <h2
+    className="JournalForm__Headline-hrntqh-4 larJiO"
+  >
+    TODAY, 
+    8/22/2020
+  </h2>
+  <label
+    className="JournalForm__StyledLabel-hrntqh-5 cYcCLR"
+  >
+    Rating:
+    <div
+      className="sc-AxheI hlNUlm"
+    >
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Star.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Star.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Star.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Star.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Star.svg
+        </svg>
+      </button>
+    </div>
+  </label>
+  <label
+    className="JournalForm__StyledLabel-hrntqh-5 cYcCLR"
+  >
+    Comprehension:
+    <div
+      className="sc-AxheI hlNUlm"
+    >
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr bImA-de"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+      <button
+        className="sc-Axmtr hiLbiM"
+        onClick={[Function]}
+        type="button"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+      </button>
+    </div>
+  </label>
+  <label
+    className="JournalForm__StyledLabel-hrntqh-5 cYcCLR"
+  >
+    Motto:
+    <input
+      className="JournalForm__MottoInput-hrntqh-3 kPxwFo"
+      name="motto"
+    />
+  </label>
+  <label
+    className="JournalForm__StyledLabel-hrntqh-5 cYcCLR"
+  >
+    Notes:
+    <textarea
+      className="JournalForm__NotesInput-hrntqh-2 fWXKLf"
+      name="notes"
+    />
+  </label>
+  <div
+    className="JournalForm__ButtonGroup-hrntqh-6 dwncsS"
+  >
+    <button
+      className="JournalForm__Button-hrntqh-7 JournalForm__CancelButton-hrntqh-9 bfDDFo"
+      onClick={[Function]}
+      type="button"
+    >
+      Cancel
+    </button>
+    <button
+      className="JournalForm__Button-hrntqh-7 JournalForm__SubmitButton-hrntqh-8 bTYWbG"
+      type="submit"
+    >
+      Save
+    </button>
+  </div>
+</form>
+`;
+
+exports[`Storyshots journal/JournalPage Journal Page 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Journal
+    </h1>
+    
+  </header>
+  <main
+    className="CardGrid-sc-6br2mr-0 JournalPage__StyledCardGrid-sc-14tn3dw-0 dmGJDp"
+  >
+    <button
+      className="JournalPage__Button-sc-14tn3dw-1 caYqrz"
+      disabled={false}
+      onClick={[Function]}
+    >
+      Rate Today 
+      <svg>
+        Star.svg
+      </svg>
+    </button>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <time
+        className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+        dateTime="2020-08-13T13:41:16.930Z"
+      >
+        8/13/2020
+      </time>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb eRpim"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb hVCLuo"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        That's life
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly.
+      </p>
+    </section>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <time
+        className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+        dateTime="2020-08-02T13:41:16.930Z"
+      >
+        8/2/2020
+      </time>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb iMtHFH"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb iTQVpE"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        That's life in the city
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        Without any sugar. What a nightmare. Well, bring her along. This concerns her too. Oh, oh a rematch, why, were you cheating? Good morning, Mom.
+      </p>
+    </section>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <time
+        className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+        dateTime="2020-08-01T13:41:16.930Z"
+      >
+        8/1/2020
+      </time>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb iMoNZV"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb dPuEFS"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        Experience is the name everyone gives to their mistakes.
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        Lab? I can't give you a tab unless you order something. What's that thing he's on? What did you sleep in your clothes again last night. No, why, what's a matter? Looks like a airplane, without wings.
+      </p>
+    </section>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <time
+        className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+        dateTime="2020-08-01T13:41:16.930Z"
+      >
+        8/1/2020
+      </time>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb eRpim"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb eRpim"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        First, solve the problem. Then, write the code.
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        Hey, not too early I sleep in on Saturday. Oh, McFly, your shoe's untied. Don't be so gullible, McFly. You got the place fixed up nice, McFly. I have you're car towed all the way to your house and all you've got for me is light beer. What are you looking at, butthead. Say hi to your mom for me. No, fine, no , good, fine, good. Time machine, I haven't invented any time machine. Jesus, George, it's a wonder I was ever born. Ahh.
+      </p>
+    </section>
+    <section
+      className="JournalEntry__JournalContainer-sc-4zs6dx-0 hDqXqT"
+    >
+      <time
+        className="DateView__StyledDate-sc-1xh1tmw-0 hvfTpn"
+        dateTime="2020-08-01T13:41:16.930Z"
+      >
+        8/1/2020
+      </time>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Rating:
+      </p>
+      <div
+        className="sc-AxhCb iTQVpE"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="sc-AxhCb hVCLuo"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Motto:
+      </p>
+      <q
+        className="JournalEntry__Motto-sc-4zs6dx-2 cTlYJU"
+      >
+        Knowledge is power.
+      </q>
+      <p
+        className="JournalEntry__Headline-sc-4zs6dx-1 gIkTkC"
+      >
+        Notes:
+      </p>
+      <p
+        className="JournalEntry__Notes-sc-4zs6dx-3 bArfXe"
+      >
+        That Biff, what a character. Always trying to get away with something. Been on top of Biff ever since high school. Although, if it wasn't for him- Hi. Uh, well, actually, I figured since it wasn't due till Monday- C'mon man, let's do something that really cooks. This is it. This is the answer. It says here that a bolt of lightning is gonna strike the clock tower precisely at 10:04 p.m. next Saturday night. If we could somehow harness this bolt of lightning, channel it into the flux capacitor, it just might work. Next Saturday night, we're sending you back to the future.
+      </p>
+    </section>
+  </main>
+</div>
+`;
+
+exports[`Storyshots teams/TeamPage Team Page 1`] = `
+<div
+  className="sc-AxiKw dPzArE"
+>
+  <header
+    className="Header__StyledHeader-sc-1euivu9-0 jwwMwn"
+  >
+    <h1
+      className="Header__Headline-sc-1euivu9-1 hlWXXa"
+    >
+      Teams
+    </h1>
+    
+  </header>
+  <main
+    className="CardGrid-sc-6br2mr-0 sc-AxmLO iYFkTB"
+  >
+    <div>
+      <h2
+        className="sc-fzozJi kUszws"
+      >
+        Team 
+        1
+      </h2>
+      <ul
+        className="sc-AxjAm jkCkoX"
+      >
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Eleonora Lipus
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Stefan Pohle
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Melis Rink
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Ashley Häber
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h2
+        className="sc-fzozJi kUszws"
+      >
+        Team 
+        2
+      </h2>
+      <ul
+        className="sc-AxjAm jkCkoX"
+      >
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Jasmin Dietz
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Enie Schwatlo
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Jarno Gummelt
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Leandra Kubera
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <h2
+        className="sc-fzozJi kUszws"
+      >
+        Team 
+        3
+      </h2>
+      <ul
+        className="sc-AxjAm jkCkoX"
+      >
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Lilia Mulrain
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Emirhan Schönherr
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Marit Bogenrieder
+          </p>
+        </li>
+        <li
+          className="sc-AxirZ eYcQlt"
+        >
+          <p>
+            Darleen Daub
+          </p>
+        </li>
+      </ul>
+    </div>
+  </main>
+</div>
+`;

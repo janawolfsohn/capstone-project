@@ -1,0 +1,344 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dashboard renders correctly 1`] = `
+Array [
+  .c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  background-image: url(background_shape.svg);
+  background-size: cover;
+}
+
+.c1 {
+  margin: 0;
+  font-weight: 700;
+  font-size: 100%;
+  line-height: 1.125;
+  color: var(--blue-main);
+  text-transform: uppercase;
+}
+
+<header
+    className="c0"
+  >
+    <h1
+      className="c1"
+    >
+      Dashboard
+    </h1>
+    
+  </header>,
+  .c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  fill: var(--blue-50);
+}
+
+.c6 > :nth-child(-n + 3) {
+  fill: var(--blue-main);
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  fill: var(--blue-50);
+}
+
+.c7 > :nth-child(-n + 10) {
+  fill: var(--blue-main);
+}
+
+.c4 {
+  border-radius: 6px;
+  box-shadow: var(--shadow-blue);
+  padding: 20px;
+  color: var(--blue-main);
+  width: 100%;
+}
+
+.c5 {
+  font-weight: 400;
+  color: var(--blue-75);
+  line-height: 1.333;
+  font-size: 75%;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.c8 {
+  display: inline-block;
+  font-weight: 400;
+  font-size: 100%;
+  line-height: 1;
+}
+
+.c9 {
+  margin: 0;
+  font-weight: 400;
+  font-size: 87.5%;
+  line-height: 1.429;
+}
+
+.c2 {
+  list-style: none;
+  padding: 0;
+  border: 1px solid var(--blue-50);
+  border-radius: 6px;
+  width: 100%;
+}
+
+.c2 > * + * {
+  border-top: var(--border-blue);
+}
+
+.c3 {
+  min-height: 58px;
+  padding: 0 5px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+}
+
+.c3 p {
+  font-weight: 400;
+  color: var(--blue-75);
+  font-size: 100%;
+  text-align: center;
+}
+
+.c3 svg {
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  margin-left: -10px;
+  margin-bottom: -11px;
+  z-index: 10;
+}
+
+.c0 {
+  display: grid;
+  -webkit-align-content: start;
+  -ms-flex-line-pack: start;
+  align-content: start;
+  gap: 20px;
+  padding: 30px;
+  overflow-y: scroll;
+  padding-top: 0;
+  gap: 0;
+}
+
+.c0 > *:last-child {
+  position: relative;
+}
+
+.c0 > *:last-child:after {
+  content: '';
+  display: block;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  width: 100%;
+  height: 80px;
+}
+
+.c1 {
+  font-weight: 400;
+  color: var(--blue-main);
+  line-height: 1.143;
+  font-size: 87.5%;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+
+<main
+    className="CardGrid-sc-6br2mr-0 c0"
+  >
+    <h2
+      className="c1"
+    >
+      Your Code Buddy for Today:
+    </h2>
+    <ul
+      className="c2"
+    >
+      <li
+        className="c3"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+        <svg>
+          Plus.svg
+        </svg>
+      </li>
+      <li
+        className="c3"
+      >
+        <p>
+          Darleen Daub
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="c1"
+    >
+      Your Current Team:
+    </h2>
+    <ul
+      className="c2"
+    >
+      <li
+        className="c3"
+      >
+        <p>
+          Jasmin Dietz
+        </p>
+      </li>
+      <li
+        className="c3"
+      >
+        <p>
+          Enie Schwatlo
+        </p>
+      </li>
+      <li
+        className="c3"
+      >
+        <p>
+          Jarno Gummelt
+        </p>
+      </li>
+      <li
+        className="c3"
+      >
+        <p>
+          Leandra Kubera
+        </p>
+      </li>
+    </ul>
+    <h2
+      className="c1"
+    >
+      Yesterdays Journal:
+    </h2>
+    <section
+      className="c4"
+    >
+      <p
+        className="c5"
+      >
+        Rating:
+      </p>
+      <div
+        className="c6"
+      >
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+        <svg>
+          Star.svg
+        </svg>
+      </div>
+      <p
+        className="c5"
+      >
+        Comprehension:
+      </p>
+      <div
+        className="c7"
+      >
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+        <svg>
+          Rectangle.svg
+        </svg>
+      </div>
+      <p
+        className="c5"
+      >
+        Motto:
+      </p>
+      <q
+        className="c8"
+      >
+        That's life
+      </q>
+      <p
+        className="c5"
+      >
+        Notes:
+      </p>
+      <p
+        className="c9"
+      >
+        Marty, you didn't fall asleep, did you? I don't know, but I'm gonna find out. There, there, now, just relax. You've been asleep for almost nine hours now. Well looky what we have here. No no no, you're staying right here with me. I think you got the wrong car, McFly.
+      </p>
+    </section>
+  </main>,
+]
+`;
