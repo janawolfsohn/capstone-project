@@ -7,12 +7,11 @@ import JournalEntry from '../journal/JournalEntry'
 import PropTypes from 'prop-types'
 
 Dashboard.propTypes = {
-  buddies: PropTypes.arrayOf(PropTypes.object).isRequired,
-  team: PropTypes.arrayOf(PropTypes.object).isRequired,
+  
   yesterdaysEntry: PropTypes.object,
 }
 
-export default function Dashboard({ buddies, team, yesterdaysEntry }) {
+export default function Dashboard({ yesterdaysEntry }) {
   return (
     <>
       <Header title="Dashboard" />
