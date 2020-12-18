@@ -39,7 +39,9 @@ export default function Home() {
       </Calendar>
       <Today>
         <h3>Was steht heute an?</h3>
-        <p>Seiten mit statischem HTML befüllen!</p>
+        <p>Für Heute sind keine Aufgaben geplant.
+          
+        </p>
       </Today>
     </>
   );
