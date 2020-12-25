@@ -37,7 +37,7 @@ export default function Wissen() {
   return (
     <>
       <Header title="Wissen" />
-      Hier steht etwas Wissenswertes!
+      Hier stehen Übungen und Wissenswertes!
       {data.map((item) => (
         <Details>
           <summary>{item.title}</summary>
